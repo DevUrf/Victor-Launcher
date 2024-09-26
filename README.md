@@ -45,7 +45,7 @@ Feel free to create a GitHub issue if you find a bug or want to suggest a new fe
 
 - **Our Discord server:**
 
-[![Prism Launcher Discord server](https://discordapp.com/api/guilds/1031648380885147709/widget.png?style=banner3)](https://prismlauncher.org/discord)
+[![Prism Launcher Discord server](https://discordapp.com/api/guilds/1031648380885147709/widget.png?style=banner3)](https://discord.com)
 
 - **Our Matrix space:**
 
