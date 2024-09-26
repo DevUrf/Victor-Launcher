@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
-  <br />This is a <b>fork</b> of the MultiMC Launcher and is <b>not</b> endorsed by it.
+  <b>Victor Client</b> is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
+  <br />This is a <b>fork</b> of the Prism Launcher and is <b>not</b> endorsed by it.
 </p>
 
 ## Installation
@@ -57,11 +57,11 @@ Feel free to create a GitHub issue if you find a bug or want to suggest a new fe
 
 ## Translations
 
-The translation effort for Prism Launcher is hosted on [Weblate](https://hosted.weblate.org/projects/prismlauncher/launcher/) and information about translating Prism Launcher is available at <https://github.com/PrismLauncher/Translations>.
+The translation effort for Victor Client is hosted on [Weblate](https://hosted.weblate.org/projects/prismlauncher/launcher/) and information about translating Prism Launcher is available at <https://github.com/PrismLauncher/Translations>.
 
 ## Building
 
-If you want to build Prism Launcher yourself, check the build instructions:
+If you want to build Victor Client yourself, check the build instructions:
 
 - [Windows](https://prismlauncher.org/wiki/development/build-instructions/windows/)
 - [Linux](https://prismlauncher.org/wiki/development/build-instructions/linux/)
@@ -101,7 +101,7 @@ You are free to fork, redistribute and provide custom builds as long as you foll
 
 If you have any questions or want any clarification on the above conditions please make an issue and ask us.
 
-If you are just building Prism Launcher for your distribution, please make sure to set the `Launcher_BUILD_PLATFORM` to a slug representing your distribution. Examples are `archlinux`, `fedora` and `nixpkgs`.
+If you are just building Victor Client for your distribution, please make sure to set the `Launcher_BUILD_PLATFORM` to a slug representing your distribution. Examples are `archlinux`, `fedora` and `nixpkgs`.
 
 Note that if you build this software without removing the provided API keys in [CMakeLists.txt](CMakeLists.txt) you are accepting the following terms and conditions:
 
