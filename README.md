@@ -22,7 +22,7 @@
 
 ### Development Builds
 
-Please understand that these builds are not intended for most users. There may be bugs, and other instabilities. You have been warned.
+Please understand that these builds are <b>not</b> intended for most users. There may be <b>bugs</b>, and other instabilities. You have been <b>warned</b>.
 
 There are development builds available through:
 
